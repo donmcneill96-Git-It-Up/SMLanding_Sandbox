@@ -13,24 +13,24 @@ export default function App() {
 
         <main className="main">
           <div className="left">
-            <p className="eyebrow">People-first consulting</p>
+            <p className="eyebrow">Customer experience and execution</p>
 
             <h1 className="headline">
-              Clear strategy.
-              <span>Human execution.</span>
+              Growth puts pressure on the business.
+              <span>We help you carry it well.</span>
             </h1>
 
-         <p className="description">
-  Shire Maxx helps growing companies fix the strain that comes with
-  growth. We strengthen customer experience, sharpen execution, and
-  put the right systems in place so businesses can retain more
-  clients and scale with consistency.
-</p>
+            <p className="description">
+              Shire Maxx helps growing companies fix the strain that comes with
+              growth. We strengthen customer experience, sharpen execution, and
+              put the right systems in place so businesses can retain more
+              clients and scale with consistency.
+            </p>
 
             <div className="pill-row">
               <span className="pill">Customer Experience</span>
-              <span className="pill">Operational Improvement</span>
-              <span className="pill">Growth Support</span>
+              <span className="pill">Operational Execution</span>
+              <span className="pill">Systems for Growth</span>
             </div>
 
             <div className="button-row">
@@ -48,26 +48,27 @@ export default function App() {
               <p className="panel-label">Built for practical impact</p>
 
               <div className="info-card">
-                <p className="info-title">What we focus on</p>
+                <p className="info-title">What we help solve</p>
                 <p className="info-text">
-                  Helping teams improve service, tighten execution, and create
-                  stronger customer trust.
+                  We help identify where growth is creating strain across the
+                  customer experience, internal handoffs, and day-to-day
+                  execution.
                 </p>
               </div>
 
               <div className="info-card">
-                <p className="info-title">Who we support</p>
+                <p className="info-title">Where we focus</p>
                 <p className="info-text">
-                  Founders, operators, and service-driven businesses that want
-                  clearer systems and better outcomes.
+                  Our work centers on stronger service systems, clearer
+                  execution, and better operational support for growing teams.
                 </p>
               </div>
 
               <div className="info-card">
-                <p className="info-title">What’s next</p>
+                <p className="info-title">What comes next</p>
                 <p className="info-text">
-                  A full site is on the way. For now, we are opening the door to
-                  early conversations and select opportunities.
+                  The full site is on the way. For now, we are opening the door
+                  to early conversations and select opportunities.
                 </p>
               </div>
             </div>
@@ -78,16 +79,17 @@ export default function App() {
           <div className="about-block">
             <p className="about-label">Approach</p>
             <p className="about-text">
-              Thoughtful, direct, and centered on real utility rather than
-              inflated language.
+              We assess where growth is creating strain, prioritize the issues
+              that matter most, and build the systems needed to support stronger
+              execution.
             </p>
           </div>
 
           <div className="about-block">
             <p className="about-label">Positioning</p>
             <p className="about-text">
-              A modern consulting brand with a people-first lens and a bias
-              toward action.
+              Shire Maxx is a people-first consulting brand focused on helping
+              growing companies strengthen customer experience and operations.
             </p>
           </div>
 

@@ -20,13 +20,12 @@ export default function App() {
               <span>Human execution.</span>
             </h1>
 
-            <p className="description">
-              Shire Maxx helps businesses strengthen customer experience,
-              sharpen operations, and move with more clarity. We are building a
-              consulting firm designed to solve real problems, improve how
-              people experience your business, and create momentum where teams
-              have felt stuck.
-            </p>
+         <p className="description">
+  Shire Maxx helps growing companies fix the strain that comes with
+  growth. We strengthen customer experience, sharpen execution, and
+  put the right systems in place so businesses can retain more
+  clients and scale with consistency.
+</p>
 
             <div className="pill-row">
               <span className="pill">Customer Experience</span>
